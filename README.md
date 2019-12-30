@@ -1,4 +1,4 @@
-# Halved-Arpeggios
+# Halved Arpeggios
 
 Max For Live MIDI 8-step sequencer aimed to light up inspiration.
 
