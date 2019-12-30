@@ -2,7 +2,7 @@
 
 Max For Live MIDI 8-step sequencer aimed to light up inspiration.
 
-![ScreenShot](screen.jpg)
+<img src="https://github.com/stefanostev/Halved-Arpeggios/blob/master/screen.jpg" width="500">
 
 Half of the notes are input by the user, the patch generates the remaining ones.
 
