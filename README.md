@@ -15,3 +15,7 @@ The `FREEZE` (`❄`) section controls generated notes. User can de-activate cons
 The sequencer has a tempo division menu. By activating `AUTO`, divisions will change randomly.
 
 `SWING` controls the sequencer swing, `STEPS` sets the overall number of steps, `DUR` controls the duration of notes gate.
+
+To do:
+- smart quantizer section;
+- velocity generation scheme.
